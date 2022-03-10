@@ -24,9 +24,19 @@ h1 {
     padding-top: 30px;
 }
 
+#goal {
+    width: 30%;
+    justify-items: center;
+}
+
 #Training {
     height: 500px;
     width: auto;
+    justify-content: center;
+}
+
+#red_gorilla {
+    width: 50%;
     justify-content: center;
 }
 
